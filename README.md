@@ -14,9 +14,8 @@ A beautiful fireworks animation created using JavaScript, HTML5 Canvas and jQuer
 
 You can see the fireworks animation in action by opening `fireworks v2.0.html` in your browser.
 
-<video autoplay loop muted playsinline>
-  <source src="./demo.mov" type="video/quicktime">
-</video>
+<img src="./demo.gif" width="600">
+
 
 ## Implementation Details
 
